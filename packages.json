@@ -1,6 +1,62 @@
 [
   {
+    "package": "MSG",
+    "url": "https://github.com/yihui/MSG"
+  },
+  {
+    "package": "Rd2roxygen",
+    "url": "https://github.com/yihui/Rd2roxygen"
+  },
+  {
+    "package": "animation",
+    "url": "https://github.com/yihui/animation"
+  },
+  {
+    "package": "formatR",
+    "url": "https://github.com/yihui/formatR"
+  },
+  {
+    "package": "fun",
+    "url": "https://github.com/yihui/fun"
+  },
+  {
+    "package": "highr",
+    "url": "https://github.com/yihui/highr"
+  },
+  {
+    "package": "knitr",
+    "url": "https://github.com/yihui/knitr"
+  },
+  {
     "package": "litedown",
     "url": "https://github.com/yihui/litedown"
+  },
+  {
+    "package": "mime",
+    "url": "https://github.com/yihui/mime"
+  },
+  {
+    "package": "printr",
+    "url": "https://github.com/yihui/printr"
+  },
+  {
+    "package": "rolldown",
+    "url": "https://github.com/yihui/rolldown"
+  },
+  {
+    "package": "servr",
+    "url": "https://github.com/yihui/servr"
+  },
+  {
+    "package": "testit",
+    "url": "https://github.com/yihui/testit"
+  },
+  {
+    "package": "xaringan",
+    "url": "https://github.com/yihui/xaringan"
+  },
+  {
+    "package": "xfun",
+    "url": "https://github.com/yihui/xfun"
   }
 ]

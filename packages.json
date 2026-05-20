@@ -32,6 +32,10 @@
     "url": "https://github.com/yihui/knitr"
   },
   {
+    "package": "lt",
+    "url": "https://github.com/yihui/lt"
+  },
+  {
     "package": "litedown",
     "url": "https://github.com/yihui/litedown"
   },

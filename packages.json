@@ -56,6 +56,10 @@
     "url": "https://github.com/yihui/servr"
   },
   {
+    "package": "shinyMat",
+    "url": "https://github.com/yihui/shinyMat"
+  },
+  {
     "package": "testit",
     "url": "https://github.com/yihui/testit"
   },
